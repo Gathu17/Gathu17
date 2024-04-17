@@ -43,4 +43,13 @@
 
 ## Wakatime stats
 <!--START_SECTION:waka-->
+
+```txt
+Python       10 hrs 18 mins  ██████████████░░░░░░░░░░░   56.19 %
+JavaScript   3 hrs 59 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.77 %
+PHP          2 hrs 34 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.05 %
+Other        1 hr 1 min      █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 %
+Markdown     13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
+```
+
 <!--END_SECTION:waka-->
