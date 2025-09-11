@@ -45,11 +45,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript       5 hrs 14 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.75 %
-Astro            3 hrs 44 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.21 %
-Python           3 hrs 34 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.55 %
-Vue.js           3 hrs 21 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.60 %
-JavaScript       2 hrs 29 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.84 %
+TypeScript       5 hrs 9 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.15 %
+Python           4 hrs 43 mins   ██████░░░░░░░░░░░░░░░░░░░   23.96 %
+JavaScript       3 hrs 5 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.68 %
+PHP              1 hr 40 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 %
+Vue.js           1 hr 35 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 %
 ```
 
 <!--END_SECTION:waka-->
