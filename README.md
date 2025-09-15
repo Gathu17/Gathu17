@@ -1,55 +1,135 @@
- <h1 align="center">Hi 👋, I'm Jerry Gathu</h1>
-<h3 align="center">A passionate fullstack developer from Kenya</h3>
+# 🚀 Jerry Gathu - Software & AI Engineer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gathu17&label=Profile%20views&color=0e75b6&style=flat" alt="gathu17" /> </p>
+<div align="center">
+  <img src="https://img.shields.io/badge/Software%20Engineer-AI%20%7C%20ML-blue?style=for-the-badge&logo=python&logoColor=white" alt="Software Engineer">
+  <img src="https://img.shields.io/badge/Location-Nairobi%2C%20Kenya-green?style=for-the-badge&logo=location&logoColor=white" alt="Location">
+  <img src="https://img.shields.io/badge/Availability-Open%20to%20Opportunities-brightgreen?style=for-the-badge" alt="Availability">
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gathu17" alt="gathu17" /></a> </p>
+---
 
-<p align="left"> <a href="https://twitter.com/jerryg" target="blank"><img src="https://img.shields.io/twitter/follow/jerryg?logo=twitter&style=for-the-badge" alt="jerryg" /></a> </p>
+## 👋 About Me
 
-- 🔭 I’m currently working on [AWS Cloud Project](https://github.com/Gathu17/aws-bootcamp-cruddur-2023/)
+Building intelligent solutions that bridge the gap between cutting-edge AI research and real-world applications. Passionate about creating products that make a difference.
 
-- 🌱 I’m currently learning **Typescript, DevOps**
+**🎯 Specializing in:**
 
-- 👯 I’m looking to collaborate on **Clooud Projects**
+- **AI/ML**: TensorFlow, LangChain, LangGraph, OpenAI API, Computer Vision
+- **Full-Stack**: React, Node.js, Python, Laravel, Next.js, Nuxt.js
+- **Cloud & DevOps**: AWS, Docker, Kubernetes, CI/CD, Terraform
 
-- 👨‍💻 All of my projects are available at [https://jerrygathu.vercel.app](https://jerrygathu.vercel.app)
+---
 
-- 📝 I regularly write articles on [jerryg.hashnode.dev](jerryg.hashnode.dev)
+## 🛠️ Tech Stack
 
-- 💬 Ask me about **React, Nodejs, IoT**
+### Programming Languages
 
-- 📫 How to reach me **jjgathu17@gmail.com**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+### AI & Machine Learning
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/jerryg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jerryg" height="30" width="40" /></a>
-<a href="https://hashnode.com/@jerryg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@jerryg" height="30" width="40" /></a>
-<a href="/https://jerrygathu.hashnode.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://jerrygathu.hashnode.dev" height="30" width="40" /></a>
-</p>
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### Frontend & Mobile
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gathu17&show_icons=true&locale=en&layout=compact" alt="gathu17" /></p>
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxt.js&logoColor=white)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gathu17&show_icons=true&locale=en" alt="gathu17" /></p>
+### Backend & Database
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gathu17&" alt="gathu17" /></p>
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
-## Wakatime stats
-<!--START_SECTION:waka-->
+### Cloud & DevOps
 
-```txt
-Python       6 hrs 3 mins    ███████████▓░░░░░░░░░░░░░   46.46 %
-TypeScript   1 hr 46 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.61 %
-Astro        1 hr 22 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.47 %
-Vue.js       1 hr 10 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.04 %
-JavaScript   1 hr 6 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 %
-```
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
-<!--END_SECTION:waka-->
+---
+
+## 🎯 Featured Projects
+
+### 🎓 EduManage Pro
+
+**Comprehensive school management system**
+
+- **Tech**: Laravel, Nuxt.js, React Native, PostgreSQL
+- **Features**: Bulk SMS, attendance tracking, marks entry, dashboards
+- **Impact**: Streamlined school operations for multiple institutions
+
+### 🌐 TransNet
+
+**Advanced wireless billing system for MikroTik routers**
+
+- **Tech**: Laravel, RouterOS API, Daraja API, React, Redis
+- **Features**: MPESA integration, SMS notifications, remote management
+- **Impact**: Automated billing for wireless service providers
+
+### 🤖 DocChat
+
+**AI chatbot with RAG-powered document analysis**
+
+- **Tech**: FastAPI, OpenAI, LangGraph, ChromaDB
+- **Features**: Document chat, instant retrieval, natural language queries
+- **Impact**: Enhanced document interaction and information extraction
+
+### 👶 NannyMatch
+
+**Smart nanny-client matching platform**
+
+- **Tech**: Nuxt.js, Node.js, PostgreSQL, Socket.io
+- **Features**: Dashboards, booking system, real-time messaging
+- **Impact**: Connected families with qualified childcare providers
+
+---
+
+## 📈 Experience Highlights
+
+- **Senior Software & AI Engineer** (2022 – Present)
+
+  - Led LLM features increasing retention by 18%
+  - Productionized MLOps on AWS with CI/CD
+  - Mentored engineers on AI best practices
+
+- **Full-Stack Engineer** (2020 – 2022)
+  - Built analytics dashboards used by 5k+ users
+  - Optimized APIs, cutting response times by 40%
+  - Shipped features across React/Node/Postgres
+
+---
+
+## 📞 Let's Connect
+
+<div align="center">
+  <a href="mailto:jjgathu17@gmail.com">
+    <img src="https://img.shields.io/badge/Email-jjgathu17@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://wa.me/254726945514">
+    <img src="https://img.shields.io/badge/WhatsApp-254726945514-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true" alt="Top Languages">
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blue&style=for-the-badge" alt="Profile Views">
+</div>
+
+---
+
+_Building the future, one line of code at a time_ 🚀
