@@ -10,13 +10,14 @@
 
 ## 👋 About Me
 
-Building intelligent solutions that bridge the gap between cutting-edge AI research and real-world applications. Passionate about creating products that make a difference.
+I build AI agents that handle the boring stuff so businesses can focus on what matters.
+Passionate about creating automation that actually makes work-life better.
 
 **🎯 Specializing in:**
 
-- **AI/ML**: TensorFlow, LangChain, LangGraph, OpenAI API, Computer Vision
+- **AI/ML**: TensorFlow, LangChain, LangGraph, OpenAI API, Computer Vision, RAG, Voice Agents
 - **Full-Stack**: React, Node.js, Python, Laravel, Next.js, Nuxt.js
-- **Cloud & DevOps**: AWS, Docker, Kubernetes, CI/CD, Terraform
+- **Cloud & DevOps**: AWS, Google ADK, Docker, Kubernetes, CI/CD, Terraform
 
 ---
 
@@ -34,6 +35,8 @@ Building intelligent solutions that bridge the gap between cutting-edge AI resea
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97_Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![LiveKit](https://img.shields.io/badge/LiveKit-00599C?style=flat-square&logo=livekit&logoColor=white)
 
 ### Frontend & Mobile
 
