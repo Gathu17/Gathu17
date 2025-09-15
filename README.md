@@ -10,7 +10,7 @@
 
 ## 👋 About Me
 
-I build AI agents that handle the boring stuff so businesses can focus on what matters.
+I build AI solutions that handle the boring stuff so businesses can focus on what matters.
 Passionate about creating automation that actually makes work-life better.
 
 **🎯 Specializing in:**
