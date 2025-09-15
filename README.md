@@ -57,55 +57,6 @@ Building intelligent solutions that bridge the gap between cutting-edge AI resea
 
 ---
 
-## 🎯 Featured Projects
-
-### 🎓 EduManage Pro
-
-**Comprehensive school management system**
-
-- **Tech**: Laravel, Nuxt.js, React Native, PostgreSQL
-- **Features**: Bulk SMS, attendance tracking, marks entry, dashboards
-- **Impact**: Streamlined school operations for multiple institutions
-
-### 🌐 TransNet
-
-**Advanced wireless billing system for MikroTik routers**
-
-- **Tech**: Laravel, RouterOS API, Daraja API, React, Redis
-- **Features**: MPESA integration, SMS notifications, remote management
-- **Impact**: Automated billing for wireless service providers
-
-### 🤖 DocChat
-
-**AI chatbot with RAG-powered document analysis**
-
-- **Tech**: FastAPI, OpenAI, LangGraph, ChromaDB
-- **Features**: Document chat, instant retrieval, natural language queries
-- **Impact**: Enhanced document interaction and information extraction
-
-### 👶 NannyMatch
-
-**Smart nanny-client matching platform**
-
-- **Tech**: Nuxt.js, Node.js, PostgreSQL, Socket.io
-- **Features**: Dashboards, booking system, real-time messaging
-- **Impact**: Connected families with qualified childcare providers
-
----
-
-## 📈 Experience Highlights
-
-- **Senior Software & AI Engineer** (2022 – Present)
-
-  - Led LLM features increasing retention by 18%
-  - Productionized MLOps on AWS with CI/CD
-  - Mentored engineers on AI best practices
-
-- **Full-Stack Engineer** (2020 – 2022)
-  - Built analytics dashboards used by 5k+ users
-  - Optimized APIs, cutting response times by 40%
-  - Shipped features across React/Node/Postgres
-
 ---
 
 ## 📞 Let's Connect
@@ -122,14 +73,14 @@ Building intelligent solutions that bridge the gap between cutting-edge AI resea
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gathu17&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gathu17&layout=compact&theme=radical&hide_border=true" alt="Top Languages">
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blue&style=for-the-badge" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=Gathu17&color=blue&style=for-the-badge" alt="Profile Views">
 </div>
 
 ---
 
-_Building the future, one line of code at a time_ 🚀
+_Building the future, one line of code at a time_ 
