@@ -15,8 +15,8 @@ Passionate about creating automation that actually makes work-life better.
 
 **🎯 Specializing in:**
 
-- **AI/ML**: TensorFlow, LangChain, LangGraph, OpenAI API, Computer Vision, RAG, Voice Agents
-- **Full-Stack**: React, Node.js, Python, Laravel, Next.js, Nuxt.js
+- **AI/ML**: TensorFlow, LangChain, LangGraph, RAG, Voice Agents
+- **Full-Stack**: React, Python, Laravel, Next.js, Nuxt.js
 - **Cloud & DevOps**: AWS, Google ADK, Docker, Kubernetes, CI/CD, Terraform
 
 ---
